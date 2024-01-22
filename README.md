@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I graduated from Saint-Petersburg State Technological Institute (Technical University).
+I'm currently learning on the Hexlet Python-Developer courses.
+
 <!--
 **PavelZ94/PavelZ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
