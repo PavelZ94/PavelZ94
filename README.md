@@ -4,10 +4,10 @@ Hi 👋 My name is Pavel
 Python web-developer
 --------------------
 
-I'm currently learning on the Hexlet Python-Developer courses. I've been learning python since April 2023.
+I've been learning python since April 2023.
 
 * 🌍  I'm based in Saint-Petersburg
-* 🧠  I'm learning on Hexlet Python-Developer courses
+* 🧠  I graduated from Hexlet Python-Developer courses
 
 ### Skills
 
